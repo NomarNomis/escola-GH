@@ -1,5 +1,5 @@
 .conteudo-principal {
-   text-align: center;
+   color: black;
 
 
      
@@ -7,6 +7,7 @@
 }
     
  .titulo-principal {
-    text-align: center
-    ;
+    justify-content: center;
+    color:black
+    
  }

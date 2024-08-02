@@ -1,16 +1,10 @@
-body {
-   background-color: black;
-} 
-
-   
-
-
-     
-
-
-    
- .title {
-    justify-content: center;
-    color:white
-    
- }
+:root {
+   --cor-de-fundo: #000000
+   --cor-texto: #ffffff
+}
+body{
+   background-color: var(--cor-de-fundo);
+}
+.title {
+   color: var(--cor-texto);
+}

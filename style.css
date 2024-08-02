@@ -1,13 +1,13 @@
 .conteudo-principal {
-   color: black;
+   background-color: black;
 
 
      
 
 }
     
- .titulo-principal {
+ .title {
     justify-content: center;
-    color:black
+    color:white
     
  }

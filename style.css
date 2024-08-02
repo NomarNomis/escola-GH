@@ -3,10 +3,10 @@
    --cor-texto: #ffffff
 }
 body{
-   background-color: var(--cor-de-fundo);
+   background-color: #000000;
 }
 .title {
-   color: var(--cor-texto);
+   color: #ffffff;
    text-align: center;
 }
 .conteudo-principal {

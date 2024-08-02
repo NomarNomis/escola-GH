@@ -10,7 +10,4 @@ body{
    text-align: center;
 }
 .conteudo-principal {
-   display: flex;
-   justify-content: center;
-   align-content: center;
 }

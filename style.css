@@ -9,5 +9,6 @@ body{
    color: var(--cor-texto);
    text-align: center;
 }
-.conteudo-principal {
+.descritor {
+   color: var(--cor-texto);
 }
